@@ -1,0 +1,2 @@
+# Clamshell
+Projekt chwytaka
