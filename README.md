@@ -1,2 +1,2 @@
-# Clamshell
+# Gripper
 Projekt chwytaka
